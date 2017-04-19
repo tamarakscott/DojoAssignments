@@ -1,0 +1,41 @@
+*{
+margin:0px;
+padding:0px;
+}
+#wrapper{
+ overflow: hidden;
+ width: 970px;
+height:700px;
+ background-color: blue;
+ margin: 0px auto;
+
+}
+h4{
+  float:right;
+  display:block;
+  clear:both;
+}
+
+input{
+  float: right;
+  height:20px;
+  border: 20px;
+  border-color: black;
+  border-radius: 5px;
+  clear:both;
+
+}
+nav{
+  color:white;
+  text-align: center;
+}
+li  {
+    display: block;
+    color: white;
+    text-align: left;
+    padding: 16px;
+    text-decoration: none;
+}
+.main{
+  text-align: center;
+}
